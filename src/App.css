@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --color-primary: #eaeef2;
+  --color-secondary: #212529;
+  --color-primary-trans: #dee2e6c2;
+  --color-secondary-trans: #7d7d7d88;
+  --color-theme1: rgb(65, 105, 224);
+  --ff: "Raleway", sans-serif;
+  --ff1: "Merriweather", serif;
+  --ff2: "Oswald", sans-serif;
+  --h1: bold 2rem var(--ff);
+  --h2: bold 1.5rem var(--ff);
+  --h3: bold 1rem var(--ff);
+  --links: 1.25rem var(--ff);
+  --p: 1.25rem var(--ff);
+  --transition: 0.3s ease-in-out;
+  --shadow: rgb(255, 255, 255) 0px 0px 10px 0px;
+  --shadow-dark: black 0px 5px 10px 5px;
+}
+
+body {
+  background-color: var(--color-primary) !important;
+}
+
+.dark-mode {
+  --color-primary: #1e1e1e;
+  --color-secondary: #dee2e6;
+  --color-primary-trans: #000000c5;
+  --color-secondary-trans: #7d7d7d88;
+  --color-theme1: rgb(42, 76, 180);
+  transition: var(--transition);
+}

@@ -1,0 +1,51 @@
+footer {
+  background-color: var(--color-primary);
+}
+
+.ftr {
+  font-family: "Raleway", sans-serif;
+  color: var(--color-secondary);
+  border-top: var(--color-secondary-trans) 1px solid;
+}
+
+.footer-text a {
+  text-decoration: none;
+  color: var(--color-secondary);
+}
+
+.footer-text p {
+  text-decoration: none;
+  color: var(--color-secondary);
+}
+
+.footer-text a:hover {
+  text-decoration: none;
+  color: var(--color-theme1);
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: var(--color-secondary);
+}
+
+.footer-links a:hover {
+  color: var(--color-theme1);
+}
+
+.heading-footer {
+  color: var(--color-theme1);
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.footer-links button {
+  color: var(--color-secondary);
+  text-decoration: none;
+  border: none;
+  background: none;
+  font-weight: 100;
+}
+
+.footer-links button:hover {
+  color: var(--color-theme1);
+}

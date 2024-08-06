@@ -1,0 +1,50 @@
+.main {
+  width: min(98%, 1300px);
+  margin: 30px auto;
+  /* border: var(--color-secondary) 1px solid; */
+}
+
+.main h1 {
+  text-align: center;
+  font: var(--h1);
+  color: var(--color-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.main .main-container {
+  border-radius: 7px;
+  height: 200px;
+  width: min(100%, 1400px);
+  font: var(--p);
+  color: var(--color-primary);
+  background-color: var(--color-secondary-trans);
+  text-align: left;
+}
+
+.format-line {
+  padding: 5px;
+  background-color: var(--color-theme1);
+  border-radius: 7px;
+  height: 55px;
+}
+
+.format-line button {
+  padding: 5px 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 50%;
+}
+
+.transcript {
+  font: var(--p);
+  color: var(--color-primary);
+  padding: 10px 10px;
+  text-decoration: none;
+  top: 0;
+  position: relative;
+}
+
+.text-box-btn {
+  margin-top: 10px;
+  margin-right: 5px;
+}
