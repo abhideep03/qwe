@@ -1,18 +1,13 @@
 import { React } from "react";
-import Header from "./Header";
-import Hero from "./hero";
-import Main from "./main";
-import AboutUs from "./AboutUs";
-import Footer from "./Footer";
-import "../App.css";
+import { Outlet } from "react-router-dom";
+import Footer from "../components/Footer";
+import Header from "../components/Header";
 
 const Layout = () => {
   return (
     <div>
       <Header />
-      <Hero />
-      <Main />
-      <AboutUs />
+      <Outlet />
       <Footer />
     </div>
   );
