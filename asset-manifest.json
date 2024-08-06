@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/speech-to-text/static/css/main.e3ef3ce3.css",
+    "main.js": "/speech-to-text/static/js/main.54c28847.js",
+    "static/media/hero.jpg": "/speech-to-text/static/media/hero.c4c6e54ddc8d58f1f38c.jpg",
+    "static/media/about.jpg": "/speech-to-text/static/media/about.8079ddfc66c667b49c8d.jpg",
+    "static/media/coverpic.jpg": "/speech-to-text/static/media/coverpic.9e5b16edd079791d6aeb.jpg",
+    "static/media/mic.png": "/speech-to-text/static/media/mic.180ba343ebaeabaa8eed.png",
+    "index.html": "/speech-to-text/index.html",
+    "main.e3ef3ce3.css.map": "/speech-to-text/static/css/main.e3ef3ce3.css.map",
+    "main.54c28847.js.map": "/speech-to-text/static/js/main.54c28847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ef3ce3.css",
+    "static/js/main.54c28847.js"
+  ]
+}
