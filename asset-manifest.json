@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/speech-to-text/static/css/main.e8bef973.css",
-    "main.js": "/speech-to-text/static/js/main.8e034341.js",
-    "static/media/hero.jpg": "/speech-to-text/static/media/hero.c4c6e54ddc8d58f1f38c.jpg",
+    "main.css": "/speech-to-text/static/css/main.4acc096d.css",
+    "main.js": "/speech-to-text/static/js/main.8d0ea791.js",
+    "static/media/hero.jpg": "/speech-to-text/static/media/hero.35bfffa76793f2b83327.jpg",
     "static/media/about.jpg": "/speech-to-text/static/media/about.8079ddfc66c667b49c8d.jpg",
-    "static/media/coverpic.jpg": "/speech-to-text/static/media/coverpic.9e5b16edd079791d6aeb.jpg",
+    "static/media/coverpic.jpg": "/speech-to-text/static/media/coverpic.cb55f62b9972e9e52b23.jpg",
     "static/media/mic.png": "/speech-to-text/static/media/mic.180ba343ebaeabaa8eed.png",
     "index.html": "/speech-to-text/index.html",
-    "main.e8bef973.css.map": "/speech-to-text/static/css/main.e8bef973.css.map",
-    "main.8e034341.js.map": "/speech-to-text/static/js/main.8e034341.js.map"
+    "main.4acc096d.css.map": "/speech-to-text/static/css/main.4acc096d.css.map",
+    "main.8d0ea791.js.map": "/speech-to-text/static/js/main.8d0ea791.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8bef973.css",
-    "static/js/main.8e034341.js"
+    "static/css/main.4acc096d.css",
+    "static/js/main.8d0ea791.js"
   ]
 }
