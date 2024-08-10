@@ -7,7 +7,7 @@
   --color-secondary: #212529;
   --color-primary-trans: #dee2e6c2;
   --color-secondary-trans: #7d7d7d88;
-  --color-theme1: rgb(65, 105, 224);
+  --color-theme1: rgb(219, 43, 20);
   --ff: "Raleway", sans-serif;
   --ff1: "Merriweather", serif;
   --ff2: "Oswald", sans-serif;
@@ -30,6 +30,5 @@ body {
   --color-secondary: #dee2e6;
   --color-primary-trans: #000000c5;
   --color-secondary-trans: #7d7d7d88;
-  --color-theme1: rgb(42, 76, 180);
   transition: var(--transition);
 }
