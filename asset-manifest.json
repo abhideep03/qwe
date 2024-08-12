@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/speech-to-text/static/css/main.b2cf907f.css",
-    "main.js": "/speech-to-text/static/js/main.8d0ea791.js",
+    "main.css": "/speech-to-text/static/css/main.3ff845ff.css",
+    "main.js": "/speech-to-text/static/js/main.e46e318e.js",
     "static/media/hero.jpg": "/speech-to-text/static/media/hero.35bfffa76793f2b83327.jpg",
     "static/media/about.jpg": "/speech-to-text/static/media/about.8079ddfc66c667b49c8d.jpg",
     "static/media/coverpic.jpg": "/speech-to-text/static/media/coverpic.cb55f62b9972e9e52b23.jpg",
     "static/media/mic.png": "/speech-to-text/static/media/mic.180ba343ebaeabaa8eed.png",
     "index.html": "/speech-to-text/index.html",
-    "main.b2cf907f.css.map": "/speech-to-text/static/css/main.b2cf907f.css.map",
-    "main.8d0ea791.js.map": "/speech-to-text/static/js/main.8d0ea791.js.map"
+    "main.3ff845ff.css.map": "/speech-to-text/static/css/main.3ff845ff.css.map",
+    "main.e46e318e.js.map": "/speech-to-text/static/js/main.e46e318e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2cf907f.css",
-    "static/js/main.8d0ea791.js"
+    "static/css/main.3ff845ff.css",
+    "static/js/main.e46e318e.js"
   ]
 }
